@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Agent VIFF//EN
+CALSCALE:GREGORIAN
+X-WR-TIMEZONE:America/Vancouver
+BEGIN:VEVENTUID:viff2025-1@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251004T180000
+DTEND;TZID=America/Vancouver:20251004T194500
+SUMMARY:Nouvelle Vague
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Richard Linklater’s playful dramatization of the making of Godard’s *Breathless*.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Nouvelle+Vague
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-2@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251011T110000
+DTEND;TZID=America/Vancouver:20251011T124500
+SUMMARY:Nouvelle Vague
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Richard Linklater’s playful dramatization of the making of Godard’s *Breathless*.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Nouvelle+Vague
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-3@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251012T213000
+DTEND;TZID=America/Vancouver:20251012T231500
+SUMMARY:Nouvelle Vague
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Richard Linklater’s playful dramatization of the making of Godard’s *Breathless*.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Nouvelle+Vague
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-4@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251012T151500
+DTEND;TZID=America/Vancouver:20251012T171100
+SUMMARY:Köln 75
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Ido Fluk’s musical drama about teenager Vera Brandes staging Keith Jarrett’s 1975 Cologne concert.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Köln+75
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-5@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251010T174500
+DTEND;TZID=America/Vancouver:20251010T193500
+SUMMARY:Father Mother Sister Brother
+LOCATION:Rio Theatre
+DESCRIPTION:Jim Jarmusch’s vignette film about family relations featuring Tom Waits\, Adam Driver and Cate Blanchett.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Father+Mother+Sister+Brother
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-6@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251012T183000
+DTEND;TZID=America/Vancouver:20251012T202000
+SUMMARY:Father Mother Sister Brother
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Jim Jarmusch’s vignette film about family relations featuring Tom Waits\, Adam Driver and Cate Blanchett.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Father+Mother+Sister+Brother
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-7@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251004T210000
+DTEND;TZID=America/Vancouver:20251004T231900
+SUMMARY:No Other Choice [STANDBY]
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Park Chan‑wook’s dark satire about a fired worker who creates a fake company to eliminate job rivals.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=No+Other+Choice
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-8@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251009T204500
+DTEND;TZID=America/Vancouver:20251009T230400
+SUMMARY:No Other Choice [STANDBY]
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Park Chan‑wook’s dark satire about a fired worker who creates a fake company to eliminate job rivals.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=No+Other+Choice
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-9@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251002T213000
+DTEND;TZID=America/Vancouver:20251002T233000
+SUMMARY:It Was Just an Accident [STANDBY]
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Jafar Panahi’s tense thriller where a mechanic believes an accident victim was his torturer.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=It+Was+Just+an+Accident
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-10@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251009T144500
+DTEND;TZID=America/Vancouver:20251009T164500
+SUMMARY:It Was Just an Accident [STANDBY]
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Jafar Panahi’s tense thriller where a mechanic believes an accident victim was his torturer.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=It+Was+Just+an+Accident
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-11@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251003T174500
+DTEND;TZID=America/Vancouver:20251003T193400
+SUMMARY:Sentimental Value [STANDBY]
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Joachim Trier’s drama about two sisters reconnecting with their estranged filmmaker father.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Sentimental+Value
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-12@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251008T173000
+DTEND;TZID=America/Vancouver:20251008T191900
+SUMMARY:Sentimental Value [STANDBY]
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Joachim Trier’s drama about two sisters reconnecting with their estranged filmmaker father.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Sentimental+Value
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-13@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251002T203000
+DTEND;TZID=America/Vancouver:20251002T232000
+SUMMARY:Dracula
+LOCATION:VIFF Centre – VIFF Cinema
+DESCRIPTION:Radu Jude’s AI‑assisted\, meta adaptation of the Dracula myth blending satire and experimentation.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Dracula
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-14@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251004T110000
+DTEND;TZID=America/Vancouver:20251004T135000
+SUMMARY:Dracula
+LOCATION:International Village 10
+DESCRIPTION:Radu Jude’s AI‑assisted\, meta adaptation of the Dracula myth blending satire and experimentation.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Dracula
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-15@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251005T180000
+DTEND;TZID=America/Vancouver:20251005T194500
+SUMMARY:Akashi
+LOCATION:Vancouver Playhouse
+DESCRIPTION:Mayumi Yoshida’s film about a Japanese‑Canadian artist returning to Tokyo to uncover a family secret.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Akashi
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-16@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251009T150000
+DTEND;TZID=America/Vancouver:20251009T164500
+SUMMARY:Akashi
+LOCATION:Granville Island Stage
+DESCRIPTION:Mayumi Yoshida’s film about a Japanese‑Canadian artist returning to Tokyo to uncover a family secret.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Akashi
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-17@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251002T210000
+DTEND;TZID=America/Vancouver:20251002T223000
+SUMMARY:The Great North
+LOCATION:International Village 7
+DESCRIPTION:Jenn Nkiru’s Afro‑surreal collage exploring Manchester’s diasporic histories and music.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=The+Great+North
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-18@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251008T160000
+DTEND;TZID=America/Vancouver:20251008T173000
+SUMMARY:The Great North
+LOCATION:International Village 10
+DESCRIPTION:Jenn Nkiru’s Afro‑surreal collage exploring Manchester’s diasporic histories and music.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=The+Great+North
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-19@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251010T154500
+DTEND;TZID=America/Vancouver:20251010T171500
+SUMMARY:The Shadow Scholars
+LOCATION:International Village 10
+DESCRIPTION:Eloïse King’s documentary uncovering the global academic ghost‑writing industry.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=The+Shadow+Scholars
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-20@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251012T190000
+DTEND;TZID=America/Vancouver:20251012T203000
+SUMMARY:The Shadow Scholars
+LOCATION:International Village 10
+DESCRIPTION:Eloïse King’s documentary uncovering the global academic ghost‑writing industry.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=The+Shadow+Scholars
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-21@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251010T203000
+DTEND;TZID=America/Vancouver:20251010T221000
+SUMMARY:Pillion
+LOCATION:Rio Theatre
+DESCRIPTION:Harry Lighton’s queer romance exploring a sub‑dom relationship between a singer and a biker.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Pillion
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-22@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251012T204500
+DTEND;TZID=America/Vancouver:20251012T222500
+SUMMARY:Pillion
+LOCATION:Fifth Avenue Cinema
+DESCRIPTION:Harry Lighton’s queer romance exploring a sub‑dom relationship between a singer and a biker.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Pillion
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-23@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251003T153000
+DTEND;TZID=America/Vancouver:20251003T170000
+SUMMARY:Khartoum
+LOCATION:VIFF Centre – VIFF Cinema
+DESCRIPTION:Collaborative documentary using green screen and performance to reconstruct memories of war in Sudan.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Khartoum
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-24@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251007T203000
+DTEND;TZID=America/Vancouver:20251007T220000
+SUMMARY:Khartoum
+LOCATION:International Village 8
+DESCRIPTION:Collaborative documentary using green screen and performance to reconstruct memories of war in Sudan.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Khartoum
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+BEGIN:VEVENTUID:viff2025-25@example.com
+DTSTAMP:20250919T152643Z
+DTSTART;TZID=America/Vancouver:20251011T204500
+DTEND;TZID=America/Vancouver:20251011T221500
+SUMMARY:Khartoum
+LOCATION:International Village 8
+DESCRIPTION:Collaborative documentary using green screen and performance to reconstruct memories of war in Sudan.\nLink: https://viff.org
+Book / live status: https://viff.org/search/?q=Khartoum
+(Status last checked: 2025-09-20 11:18 PDT)
+URL:https://viff.org
+END:VEVENT
+END:VCALENDAR
